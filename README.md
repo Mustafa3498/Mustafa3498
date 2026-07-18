@@ -23,14 +23,16 @@ I am continuously improving my skills in backend development and full-stack inte
 * Git & GitHub
 * node.js
 * express.js
+* flutter
   
 
 ## Focus Areas
 
-* Backend Development
+* Full Stack Development
 * REST API Development
 * Database Design & Optimization
 * Web Application Development
+* App Development
 
 ## Tech Stack
 
