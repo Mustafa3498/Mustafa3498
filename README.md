@@ -1,6 +1,6 @@
 # Mustafa Umer
 
-Backend Developer focused on PHP and Laravel with practical experience in building real-world web applications.
+Full-Stack Developer | Transforming ideas into clean, scalable code.
 
 ## About Me
 
@@ -21,6 +21,9 @@ I am continuously improving my skills in backend development and full-stack inte
 * Bootstrap
 * REST API Integration
 * Git & GitHub
+* node.js
+* express.js
+  
 
 ## Focus Areas
 
